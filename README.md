@@ -25,7 +25,7 @@ Contiene una serie de interfaces y clases, las interfaces son implementadas en l
 
 Las clases implementan toda la lógica de las diferentes interfaces.
 
-Este Framework fue el que se utilizó para realizar el juego PiratasGame:<p> https://github.com/tarsicio/PiratasGames/releases <p>el cual pueden ver en<p> http://appmovilvenezuela.blogspot.com/2016/10/piratasgames-2016-apps-piratasgames_28.html 
+Este Framework fue el que se utilizó para realizar el juego PiratasGame:<p> https://github.com/tarsicio/PiratasGames/releases <p>el cual pueden ver en<p> http://appmovilvenezuela.blogspot.com/2016/10/piratasgames-2016-apps-piratasgames_28.html <p> y Descargar el Juego para Android desde: http://piratasgames.uptodown.com/android <p>
 
 Para facilitar su uso, todas las interfaces y clases fueron empaquetadas en un archivo <b>jar</b>, quedando con el nombre <b>classes.jar</b>, el paquete en las <b>interfaces</b> se llama:<p> <b>package com.tarsicio.bibliotecagamesve.interfaces;</b><p> y el paquete en las <b>clases</b> se llama:<p> <b>package com.tarsicio.bibliotecagamesve.modelo;</b> 
 
